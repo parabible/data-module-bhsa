@@ -1,0 +1,5 @@
+cache/
+old/
+tf-accent-data-git
+__pycache__
+node_modules/

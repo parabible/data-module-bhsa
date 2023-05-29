@@ -1,0 +1,29 @@
+{
+  "name": "data-module-bhsa",
+  "version": "1.0.0",
+  "description": "Build the BHS data needed for parabible's backend",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parabible/data-module-bhsa.git"
+  },
+  "keywords": [
+    "BHS",
+    "Hebrew",
+    "Bible",
+    "Old Testament"
+  ],
+  "author": "James Cuénod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parabible/data-module-bhsa/issues"
+  },
+  "homepage": "https://github.com/parabible/data-module-bhsa#readme",
+  "dependencies": {
+    "better-sqlite3": "^8.4.0",
+    "hebrew-transliteration": "^2.4.0"
+  }
+}
